@@ -39,3 +39,17 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+
+
+Thread 1 is printing numbers:
+1 2 3 4 5
+Thread 2 is printing numbers:
+1 2 3 4 5
+Thread 3 is printing numbers:
+1 2 3 4 5
+Thread 4 is printing numbers:
+1 2 3 4 5
+Thread 5 is printing numbers:
+1 2 3 4 5
